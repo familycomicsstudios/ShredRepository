@@ -25,6 +25,15 @@
 		"author_contact": "sheeptester",
 		"version": "1.0.0",
 		"sandboxed": "true"
-	}
+	},
+	"sheepfetch": {
+		"repository_reqget": "https://sheeptester.github.io/javascripts/utilities.js",
+		"name": "Sheeptester Fetch",
+		"description": "Fetching extension for Scratch",
+		"author_name": "sheeptester",
+		"author_contact": "sheeptester",
+		"version": "1.0.0",
+		"sandboxed": "true"
+	},
 
 }
