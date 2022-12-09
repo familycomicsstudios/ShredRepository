@@ -61,6 +61,15 @@
 		"author_contact": "Barthdry",
 		"version": "1.0.0",
 		"sandboxed": "true"
+	},
+	"rixxyx": {
+		"repository_reqget": "https://rixxyx.rixthetyrunt.repl.co/beta.js",
+		"name": "RixxyX",
+		"description": "Tools for Scratch",
+		"author_name": "rixthetyrunt",
+		"author_contact": "rixthetyrunt",
+		"version": "1.0.0",
+		"sandboxed": "true"
 	}
 
 }
