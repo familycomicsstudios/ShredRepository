@@ -43,6 +43,15 @@
 		"author_contact": "tigitaal",
 		"version": "1.0.0",
 		"sandboxed": "true"
+	},
+	"scratchmath": {
+		"repository_reqget": "https://familycomicsstudios.github.io/ScratchExtensionsFCS/Code/scratchmath.js",
+		"name": "Scratch Math",
+		"description": "Scratch Math",
+		"author_name": "Themadpunter",
+		"author_contact": "Themadpunter#0439",
+		"version": "1.0.0",
+		"sandboxed": "true"
 	}
 
 }
