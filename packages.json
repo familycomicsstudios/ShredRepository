@@ -52,6 +52,15 @@
 		"author_contact": "Themadpunter#0439",
 		"version": "1.0.0",
 		"sandboxed": "true"
+	},
+	"minecraft": {
+		"repository_reqget": "https://pruss.mobi/js/rjm.js",
+		"name": "Minecraft",
+		"description": "Tools to interact with Minecraft",
+		"author_name": "Barthdry",
+		"author_contact": "Barthdry",
+		"version": "1.0.0",
+		"sandboxed": "true"
 	}
 
 }
