@@ -35,5 +35,14 @@
 		"version": "1.0.0",
 		"sandboxed": "true"
 	},
+	"javascript": {
+		"repository_reqget": "https://turbowarp.tigitaal.nl/eval.js",
+		"name": "Javascript",
+		"description": "ScratchJS",
+		"author_name": "tigitaal",
+		"author_contact": "tigitaal",
+		"version": "1.0.0",
+		"sandboxed": "true"
+	}
 
 }
