@@ -1,3 +1,5 @@
 {
-    "utilities_themadpunter": {"repository_reqget":"https://familycomicsstudios.github.io/ScratchExtensionsFCS/Code/utils.js"}
+    "utilities_themadpunter": {"repository_reqget":"https://familycomicsstudios.github.io/ScratchExtensionsFCS/Code/utils.js"},
+    "notwait": {"repository_reqget":"https://notwait.github.io/notwait-blocks/extension/notwait-blocks.js"}
+    
 }
