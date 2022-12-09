@@ -1,30 +1,30 @@
 {
-    "utilities_themadpunter": {
-        "repository_reqget":"https://familycomicsstudios.github.io/ScratchExtensionsFCS/Code/utils.js",
-        "name": "Utilities (Themadpunter)",
-        "description": "A set of basic utilites for Scratch.",
-        "author_name": "Themadpunter",
-        "author_contact": "Themadpunter#0439",
-        "version": "1.0.0",
-        "sandboxed": 'true'
-    },
-    "notwait": {
-        "repository_reqget":"https://notwait.github.io/notwait-blocks/extension/notwait-blocks.js",
-        "name": "Notwait Blocks",
-        "description": "Notwait Blocks",
-        "author_name": "notwait",
-        "author_contact": "notwait",
-        "version": "1.0.0",
-        "sandboxed": 'true'
-    },
-    "sheeputils": {
-        "repository_reqget":"https://sheeptester.github.io/javascripts/utilities.js",
-        "name": "Sheeptester Utilites",
-        "description": "A set of basic utilites for Scratch.",
-        "author_name": "sheeptester",
-        "author_contact": "sheeptester",
-        "version": "1.0.0",
-        "sandboxed": 'true'
-    }
-    
+	"utilities_themadpunter": {
+		"repository_reqget": "https://familycomicsstudios.github.io/ScratchExtensionsFCS/Code/utils.js",
+		"name": "Utilities (Themadpunter)",
+		"description": "A set of basic utilites for Scratch.",
+		"author_name": "Themadpunter",
+		"author_contact": "Themadpunter#0439",
+		"version": "1.0.0",
+		"sandboxed": "true"
+	},
+	"notwait": {
+		"repository_reqget": "https://notwait.github.io/notwait-blocks/extension/notwait-blocks.js",
+		"name": "Notwait Blocks",
+		"description": "Notwait Blocks",
+		"author_name": "notwait",
+		"author_contact": "notwait",
+		"version": "1.0.0",
+		"sandboxed": "true"
+	},
+	"sheeputils": {
+		"repository_reqget": "https://sheeptester.github.io/javascripts/utilities.js",
+		"name": "Sheeptester Utilites",
+		"description": "A set of basic utilites for Scratch.",
+		"author_name": "sheeptester",
+		"author_contact": "sheeptester",
+		"version": "1.0.0",
+		"sandboxed": "true"
+	}
+
 }
