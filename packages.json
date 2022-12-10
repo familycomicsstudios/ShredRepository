@@ -70,6 +70,15 @@
 		"author_contact": "rixthetyrunt",
 		"version": "1.0.0",
 		"sandboxed": "true"
+	},
+	"gamepad": {
+		"repository_reqget": "https://arpruss.github.io/gamepad.js",
+		"name": "Gamepad",
+		"description": "Gamepads for Scratch",
+		"author_name": "arpruss",
+		"author_contact": "arpruss",
+		"version": "1.0.0",
+		"sandboxed": "false"
 	}
 
 }
