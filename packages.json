@@ -79,6 +79,43 @@
 		"author_contact": "arpruss",
 		"version": "1.0.0",
 		"sandboxed": "false"
+	},
+	"gameutils": {
+		"repository_reqget": "https://showierdata9978.github.io/GameUtils/src/GameUtils.js",
+		"name": "GameUtils",
+		"description": "ScratchVM Tools",
+		"author_name": "showierdata9978",
+		"author_contact": "showierdata9978",
+		"version": "1.0.0",
+		"sandboxed": "false"
+	},
+	"cloudlink": {
+		"repository_reqget": "https://mikedev101.github.io/cloudlink/S4-0-nosuite.js",
+		"name": "CloudLink",
+		"description": "CloudLink - Access WSS Servers from Scratch",
+		"author_name": "MikeDev101",
+		"author_contact": "MikeDev101",
+		"version": "1.0.0",
+		"sandboxed": "false"
+	},
+	"cloudlinkturbo": {
+		"repository_reqget": "https://mikedev101.github.io/turbo_networking.js",
+		"name": "CloudLink Turbo",
+		"description": "CloudLink Turbo - Access WSS Servers from Scratch",
+		"author_name": "MikeDev101",
+		"author_contact": "MikeDev101",
+		"version": "1.0.0",
+		"sandboxed": "false"
+	},
+	"dotprop": {
+		"repository_reqget": "https://gistcdn.githack.com/Richienb/bd67c0d65a187eea28bd18d0e04c1052/raw/061ef801c8b474c75f830805b59947b81d8d4257/index.min.js",
+		"name": "DotProp",
+		"description": "DotProp",
+		"author_name": "RichieNB",
+		"author_contact": "RichieNB",
+		"version": "1.0.0",
+		"sandboxed": "false"
 	}
+
 
 }
